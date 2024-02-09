@@ -1,0 +1,460 @@
+fileFormatVersion: 2
+guid: 2dbba8213a7847a489d15127d92bbcf6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4136909394952864355
+    second: Puertas_0
+  - first:
+      213: 6535306384697480549
+    second: Puertas_1
+  - first:
+      213: 4022771825071141029
+    second: Puertas_2
+  - first:
+      213: -2400258552302442671
+    second: Puertas_3
+  - first:
+      213: 3714498074031748885
+    second: Puertas_4
+  - first:
+      213: -1813419417182304228
+    second: Puertas_5
+  - first:
+      213: -7658994798568367999
+    second: Puertas_6
+  - first:
+      213: 5435211312247694151
+    second: Puertas_7
+  - first:
+      213: 8331021644931959497
+    second: Puertas_8
+  - first:
+      213: -7136514248836245954
+    second: Puertas_9
+  - first:
+      213: 6431374092535829480
+    second: Puertas_10
+  - first:
+      213: 7301468695342245021
+    second: Puertas_11
+  - first:
+      213: 6194856831056246605
+    second: Puertas_12
+  - first:
+      213: 4200573274805421110
+    second: Puertas_13
+  - first:
+      213: -4346662554145526275
+    second: Puertas_14
+  - first:
+      213: 7101329666314472162
+    second: Puertas_15
+  - first:
+      213: 358041713472459092
+    second: Puertas_16
+  - first:
+      213: 688707712678932898
+    second: Puertas_17
+  - first:
+      213: -7073728536260512972
+    second: Puertas_18
+  - first:
+      213: 5632766539304709722
+    second: Puertas_19
+  - first:
+      213: -3843432684450059552
+    second: Puertas_20
+  - first:
+      213: 6236311150099041583
+    second: Puertas_21
+  - first:
+      213: 6467031055279008457
+    second: Puertas_22
+  - first:
+      213: 5784084196493280999
+    second: Puertas_23
+  - first:
+      213: -7696356658639437502
+    second: Puertas_24
+  - first:
+      213: -2400125517802525924
+    second: Puertas_25
+  - first:
+      213: 4418774195848805493
+    second: Puertas_26
+  - first:
+      213: 4871404556329454870
+    second: Puertas_27
+  - first:
+      213: 5112582526665391999
+    second: Puertas_28
+  - first:
+      213: -3034001999560559012
+    second: Puertas_29
+  - first:
+      213: 3484899782185415886
+    second: Puertas_30
+  - first:
+      213: 921414776298920645
+    second: Puertas_31
+  - first:
+      213: -7511034412424454368
+    second: Puertas_32
+  - first:
+      213: -261798663373380129
+    second: Puertas_33
+  - first:
+      213: -3048562544032367365
+    second: Puertas_34
+  - first:
+      213: 3188956355365722635
+    second: Puertas_35
+  - first:
+      213: -309808847856924648
+    second: Puertas_36
+  - first:
+      213: -3080234535807349998
+    second: Puertas_37
+  - first:
+      213: -7204699137332851303
+    second: Puertas_38
+  - first:
+      213: 7759103662114356152
+    second: Puertas_39
+  - first:
+      213: 3199011762371893872
+    second: Puertas_40
+  - first:
+      213: 245880624956724158
+    second: Puertas_41
+  - first:
+      213: 7251017114865048593
+    second: Puertas_42
+  - first:
+      213: 6074301219955989120
+    second: Puertas_43
+  - first:
+      213: 7861138347905406100
+    second: Puertas_44
+  - first:
+      213: 6123613219516255868
+    second: Puertas_45
+  - first:
+      213: -3182991504354227114
+    second: Puertas_46
+  - first:
+      213: 408768366863269099
+    second: Puertas_47
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Puertas_0
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 143
+        width: 18
+        height: 32
+      alignment: 9
+      pivot: {x: 0.51804286, y: 0.47549534}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9dbbd5d2deb696c0800000000000000
+      internalID: -4136909394952864355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puertas_1
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 142
+        width: 20
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5007698, y: 0.48850393}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5655c36088212ba50800000000000000
+      internalID: 6535306384697480549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puertas_2
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 90
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0b0dd49a1c3d730800000000000000
+      internalID: 4022771825071141029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puertas_3
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 90
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1576be4509190bed0800000000000000
+      internalID: -2400258552302442671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puertas_4
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 90
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517f88d615c8c8330800000000000000
+      internalID: 3714498074031748885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puertas_5
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c188d02e5a075d6e0800000000000000
+      internalID: -1813419417182304228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puertas_6
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18894ce4fc8c5b590800000000000000
+      internalID: -7658994798568367999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puertas_7
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74365b934efbd6b40800000000000000
+      internalID: 5435211312247694151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Puertas_0: -4136909394952864355
+      Puertas_1: 6535306384697480549
+      Puertas_2: 4022771825071141029
+      Puertas_3: -2400258552302442671
+      Puertas_4: 3714498074031748885
+      Puertas_5: -1813419417182304228
+      Puertas_6: -7658994798568367999
+      Puertas_7: 5435211312247694151
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

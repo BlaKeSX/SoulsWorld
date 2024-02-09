@@ -1,0 +1,927 @@
+fileFormatVersion: 2
+guid: ee095266e30a3114c987e442bd369067
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2401859448968843242
+    second: Pasar player_0
+  - first:
+      213: 2453144941854301843
+    second: Pasar player_1
+  - first:
+      213: -3334788585014791409
+    second: Pasar player_2
+  - first:
+      213: 2070517361478997267
+    second: Pasar player_3
+  - first:
+      213: -5977023198918173223
+    second: Pasar player_4
+  - first:
+      213: 7273227728222851102
+    second: Pasar player_5
+  - first:
+      213: 2319464084930418855
+    second: Pasar player_6
+  - first:
+      213: 4494330661841545132
+    second: Pasar player_7
+  - first:
+      213: 1417712855529371261
+    second: Pasar player_8
+  - first:
+      213: -7000208585519651650
+    second: Pasar player_9
+  - first:
+      213: -3315022130902850780
+    second: Pasar player_10
+  - first:
+      213: 3552330628925033180
+    second: Pasar player_11
+  - first:
+      213: 4796428421139777262
+    second: Pasar player_12
+  - first:
+      213: 6461645448900469774
+    second: Pasar player_13
+  - first:
+      213: -1019032722087787307
+    second: Pasar player_14
+  - first:
+      213: -4074602176166467965
+    second: Pasar player_15
+  - first:
+      213: -5595341874537847100
+    second: Pasar player_16
+  - first:
+      213: 4191357843922995931
+    second: Pasar player_17
+  - first:
+      213: -5205193199990582921
+    second: Pasar player_18
+  - first:
+      213: -3199610582737884974
+    second: Pasar player_19
+  - first:
+      213: 870299679690968842
+    second: Pasar player_20
+  - first:
+      213: 6376784382846099825
+    second: Pasar player_21
+  - first:
+      213: 8574564325795966761
+    second: Pasar player_22
+  - first:
+      213: -1611077988454949293
+    second: Pasar player_23
+  - first:
+      213: 1266976374160522278
+    second: Pasar player_24
+  - first:
+      213: -3037487136071195865
+    second: Pasar player_25
+  - first:
+      213: 2890224967891533497
+    second: Pasar player_26
+  - first:
+      213: -4624799424398640264
+    second: Pasar player_27
+  - first:
+      213: -5394582490365121739
+    second: Pasar player_28
+  - first:
+      213: 4027763662401372852
+    second: Pasar player_29
+  - first:
+      213: 4093008091374599879
+    second: Pasar player_30
+  - first:
+      213: 5417221548152404077
+    second: Pasar player_31
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pasar player_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 200
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef0438717e155120800000000000000
+      internalID: 2401859448968843242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pasar player_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 198
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e95c9c3525b0220800000000000000
+      internalID: 2453144941854301843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pasar player_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 198
+        width: 22
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f037a2d437378b1d0800000000000000
+      internalID: -3334788585014791409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pasar player_3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 198
+        width: 22
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3151c38f194fbbc10800000000000000
+      internalID: 2070517361478997267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pasar player_4
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 198
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd963671195d0da0800000000000000
+      internalID: -5977023198918173223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pasar player_5
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 198
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e109e376512bfe460800000000000000
+      internalID: 7273227728222851102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pasar player_6
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 198
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8dd83db44603020800000000000000
+      internalID: 2319464084930418855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pasar player_7
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 198
+        width: 22
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7263acce11f5e30800000000000000
+      internalID: 4494330661841545132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pasar player_8
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 136
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76355ba45abca310800000000000000
+      internalID: 1417712855529371261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pasar player_9
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 136
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4267251634ade90800000000000000
+      internalID: -7000208585519651650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pasar player_10
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 136
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4232af88fecaef1d0800000000000000
+      internalID: -3315022130902850780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pasar player_11
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 136
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda01ddc2e96c4130800000000000000
+      internalID: 3552330628925033180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pasar player_12
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 136
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6cf988c36509240800000000000000
+      internalID: 4796428421139777262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pasar player_13
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 136
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e046b3eec406ca950800000000000000
+      internalID: 6461645448900469774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pasar player_14
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 136
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d44579632babd1f0800000000000000
+      internalID: -1019032722087787307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pasar player_15
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 136
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3866090b8ea1477c0800000000000000
+      internalID: -4074602176166467965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pasar player_16
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 72
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6ad43e53a5952b0800000000000000
+      internalID: -5595341874537847100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pasar player_17
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 73
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdac39590c1ba2a30800000000000000
+      internalID: 4191357843922995931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pasar player_18
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 73
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7715847ec5073c7b0800000000000000
+      internalID: -5205193199990582921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pasar player_19
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 73
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8e3549023b893d0800000000000000
+      internalID: -3199610582737884974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pasar player_20
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 73
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0fcd1892fce31c00800000000000000
+      internalID: 870299679690968842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pasar player_21
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 73
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171eccc4c93ee7850800000000000000
+      internalID: 6376784382846099825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pasar player_22
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 73
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f2ec603d8fef670800000000000000
+      internalID: 8574564325795966761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pasar player_23
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 73
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e11b8fa1d44a9e0800000000000000
+      internalID: -1611077988454949293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pasar player_24
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 8
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c76a0bc44359110800000000000000
+      internalID: 1266976374160522278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pasar player_25
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 8
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72368a40b8da8d5d0800000000000000
+      internalID: -3037487136071195865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pasar player_26
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 8
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9beb3249b442c1820800000000000000
+      internalID: 2890224967891533497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pasar player_27
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 8
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87bb94f3d6961dfb0800000000000000
+      internalID: -4624799424398640264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pasar player_28
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 8
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53bae368ec79225b0800000000000000
+      internalID: -5394582490365121739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pasar player_29
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 8
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b209a006bd75e730800000000000000
+      internalID: 4027763662401372852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pasar player_30
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 8
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cebe256c294dc830800000000000000
+      internalID: 4093008091374599879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pasar player_31
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 8
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68373fdb46dd2b40800000000000000
+      internalID: 5417221548152404077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Pasar player_0: 2401859448968843242
+      Pasar player_1: 2453144941854301843
+      Pasar player_10: -3315022130902850780
+      Pasar player_11: 3552330628925033180
+      Pasar player_12: 4796428421139777262
+      Pasar player_13: 6461645448900469774
+      Pasar player_14: -1019032722087787307
+      Pasar player_15: -4074602176166467965
+      Pasar player_16: -5595341874537847100
+      Pasar player_17: 4191357843922995931
+      Pasar player_18: -5205193199990582921
+      Pasar player_19: -3199610582737884974
+      Pasar player_2: -3334788585014791409
+      Pasar player_20: 870299679690968842
+      Pasar player_21: 6376784382846099825
+      Pasar player_22: 8574564325795966761
+      Pasar player_23: -1611077988454949293
+      Pasar player_24: 1266976374160522278
+      Pasar player_25: -3037487136071195865
+      Pasar player_26: 2890224967891533497
+      Pasar player_27: -4624799424398640264
+      Pasar player_28: -5394582490365121739
+      Pasar player_29: 4027763662401372852
+      Pasar player_3: 2070517361478997267
+      Pasar player_30: 4093008091374599879
+      Pasar player_31: 5417221548152404077
+      Pasar player_4: -5977023198918173223
+      Pasar player_5: 7273227728222851102
+      Pasar player_6: 2319464084930418855
+      Pasar player_7: 4494330661841545132
+      Pasar player_8: 1417712855529371261
+      Pasar player_9: -7000208585519651650
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
